@@ -1,6 +1,11 @@
 CHANGES
 =======
 
+0.9.4
+-----
+
+* Add return_value for defined exception type(s) after the n retries
+
 0.9.2
 -----
 

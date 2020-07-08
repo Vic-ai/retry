@@ -12,6 +12,9 @@ retry
 
 
 Easy to use retry decorator.
+Forked repo (not upd desc):
+    added default_return argument.
+    Example: default_return=(InternalServerError, 'return value for internal error after n tries')
 
 
 Features
